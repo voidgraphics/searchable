@@ -1,4 +1,6 @@
-<?php namespace Nicolaslopezj\Searchable;
+<?php 
+
+namespace Voidgraphics\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Arr;
