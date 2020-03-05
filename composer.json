@@ -1,5 +1,5 @@
 {
-    "name": "voidgraphics/searchable",
+    "name": "voidgraphics/laravel-searchable",
     "description": "Eloquent model search trait.",
     "keywords": ["laravel", "eloquent", "search", "searchable", "database", "model"],
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nicolaslopezj\\Searchable\\": "src/"
+            "Voidgraphics\\Searchable\\": "src/"
         }
     },
     "minimum-stability": "stable"
