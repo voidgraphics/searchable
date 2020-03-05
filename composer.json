@@ -1,9 +1,13 @@
 {
-    "name": "nicolaslopezj/searchable",
+    "name": "voidgraphics/searchable",
     "description": "Eloquent model search trait.",
     "keywords": ["laravel", "eloquent", "search", "searchable", "database", "model"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Adrien Leloup",
+            "email": "adrien@whitecube.be"
+        },
         {
             "name": "Nicolas Lopez",
             "email": "nicolaslopezj@me.com"
